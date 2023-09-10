@@ -44,7 +44,7 @@ function App() {
         </ul>
       ) : (
         <div className="empty"> 
-        <p>No task founf</p>
+        <p>No task found</p>
         </div> 
       )}
     </div>
